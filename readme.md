@@ -1,0 +1,3 @@
+-jquery giúp thao với dom và xử lý sự kiện dễ dàng hơn không phải dung js thuần nhiều.
+-ajax giúp call api và cập nhập dữ liệu không cần load lại trang.
+-kết hợp giữa jQuery và AJAX giúp đơn giản hóa quá trình gửi và nhận dữ liệu từ máy chủ mà không cần phải tải lại toàn bộ trang web.
